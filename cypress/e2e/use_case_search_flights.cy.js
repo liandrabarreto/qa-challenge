@@ -1,4 +1,4 @@
-describe('Use Case One', () => {
+describe('Use Case Search', () => {
   it('Search Flights', () => {
      cy.visit('https://www.skyscanner.com.br', {
       headers: {
